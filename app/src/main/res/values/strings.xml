@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">downloader</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="video_icon_text">Home</string>
+    <string name="shorts_icon_text">Files</string>
+    <string name="image_icon_text">Setting</string>
+    <string name="facebook_video_download">Facebook Video Download</string>
+</resources>
